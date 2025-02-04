@@ -1,4 +1,4 @@
-# Manpower
+# ✨Manpower
 
 ## เกี่ยวกับโปรเจกต์
 
@@ -15,3 +15,9 @@
 | สุพิพัฒน์ แสงสอน | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
 | อัญชลี สกุลฑิฆัมพร | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend รวมถึงออกแบบ UI/UX |
 | อภิญญา แซ่อึ้ง | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
+
+## เทคโนโลยีที่ใช้
+- **Frontend:** React
+- **Backend:** FastAPI
+- **Database:** MySQL
+- **Tool:** Docker Postman
