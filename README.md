@@ -10,7 +10,7 @@
 - **Frontend:** React
 - **Backend:** FastAPI
 - **Database:** MySQL
-- **Tool:** Docker, Postman
+- **Tool:** Visual Studio Code, Docker, Postman
 
 ## 🫂ทีมพัฒนา
 
